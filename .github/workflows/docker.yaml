@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - /app.py
+      - ./
 
   pull_request:
     branches:
